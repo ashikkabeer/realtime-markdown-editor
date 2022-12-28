@@ -2,6 +2,7 @@ const express = require('express');
 const app = express();
 const sharejs = require('share')
 require('redis')
+require('dotenv')
 app.set('view engine', 'ejs');
 
    
