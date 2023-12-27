@@ -64,4 +64,3 @@ This project is a simple realtime Markdown editor built using Express, ShareJS, 
 - [Showdown.js](https://github.com/showdownjs/showdown)
 
 Feel free to contribute and make this project even better!
-```
