@@ -1,6 +1,4 @@
-Certainly! Here's a basic GitHub readme for your realtime Markdown editor:
 
-```markdown
 # Realtime Markdown Editor
 
 This project is a simple realtime Markdown editor built using Express, ShareJS, and Showdown.js. It allows users to collaboratively edit and preview Markdown content in real-time.
@@ -59,10 +57,6 @@ This project is a simple realtime Markdown editor built using Express, ShareJS, 
 - Showdown.js: Markdown to HTML converter
 - Bootstrap: Front-end framework
 - Redis: Backend data store for ShareJS
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
