@@ -65,5 +65,3 @@ This project is a simple realtime Markdown editor built using Express, ShareJS, 
 
 Feel free to contribute and make this project even better!
 ```
-
-Make sure to replace "your-username" with your actual GitHub username and add any additional sections or details as needed.
